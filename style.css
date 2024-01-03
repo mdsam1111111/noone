@@ -19,7 +19,7 @@ header .nav-container {
   /* background-color: red; */
   width: 100%;
   position: fixed;
-  height: 100px;
+  height: 50px;
   z-index: 99;
 }
 header nav ul {
@@ -27,7 +27,7 @@ header nav ul {
   align-items: center;
   justify-content: space-around;
   list-style: none;
-  padding-top: 40px;
+  padding-top: 15px;
 }
 video {
   height: 100%;
@@ -80,7 +80,7 @@ video {
   position: relative;
 }
 #page-one h1::before {
-  content: "We Know What You Want";
+  content: "CORPORATE EVENTS PLANNER";
   position: absolute;
   color: black;
   top: -4px;
